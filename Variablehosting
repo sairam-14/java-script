@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>variablehosting</title>
+    <script>
+        let x=10;
+        console.log(x);
+        console.log(y);
+        var y=15;
+        console.log(x+y);
+        console.log(z);
+        let z=20;
+        console.log(x+y+z);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
