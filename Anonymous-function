@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+         console.log(sum(10,30));
+        let sum=function(a,b)
+        {
+           console.log("The anonymous function is called");
+           return(a+b);
+        }
+       
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
